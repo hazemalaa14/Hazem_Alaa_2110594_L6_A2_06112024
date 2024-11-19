@@ -1,0 +1,1 @@
+Very simple app , user would get to choose between rolling either 1,2,3 Dice, each with their respective logic and designs, by using the roll button on any dice option, user would get a result and he could always roll again.
